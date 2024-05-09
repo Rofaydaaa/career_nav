@@ -1,9 +1,5 @@
 from mrjob.job import MRJob
-import csv
 from mrjob.step import MRStep
-import pandas as pd
-import sys
-from mrjob import protocol
 
 class MRCompaniesWithMostJobPostings(MRJob):
 
