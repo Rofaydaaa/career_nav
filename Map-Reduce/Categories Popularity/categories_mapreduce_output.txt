@@ -1,0 +1,478 @@
+"['orgTags_CATEGORIES' ]"                   counts
+"['Marketing, Advertising and PR']"     3467
+"['Manufacturing and Mechanical']"      3226
+"['Sales and Procurement']"     3219
+"['Legal']"     2711
+"['Finance']"   2321
+"['Transportation']"    2132
+"['Construction']"      1876
+"['Retail']"    1641
+"['Assistants']"        1587
+"['Security, Military and Government']"   1574
+"['Human Resources']"   1517
+"['Banking and Insurance']"     1401
+"['Service']"   1332
+"['Management']"        1329
+"['Engineering']"       1292
+"['Accounting and Auditing']"     1277
+"['Healthcare']"          1276
+"['Sales & Marketing']"   1212
+"['Education']"   1135
+"['Administration']"    1118
+"['Logistics and Warehouse']"     1113
+"['Developers']"        1096
+"['Agriculture and agribusiness']"      1094
+"['Secretarial, Clerical and Administrative Assistant']"        957
+"['Real Estate']"       949
+"['Business Specialists']"      948
+"['Journalism, Publishing and Printing']"       855
+"['Customer Service']"    847
+"['Architecture']"      830
+"['Internet']"    829
+"['Salon/Spa/Fitness']"   816
+"['Information Technology and Computer']"       808
+"['Design and Creativity']"     791
+"['Middle Management']"   786
+"['Hotels, Hospitality and Tourism']"   758
+"['Social Services']"     702
+"['Food & Restaurant']"   643
+"['Culture, Music and Entertainment']"    643
+"['Warehouse & Production']"    642
+"['Installation & Repair']"     535
+"['Maintenance & Janitorial']"    528
+"['Technology']"        526
+"['Medicine and Pharmaceutical']"       507
+"['Upper, Senior management and C Level']"      479
+"['Consultancy']"       454
+"['Wellness']"    441
+"['Telecommunication']"   432
+"['Computers & Technology']"    400
+"['Science']"   395
+"['Administrative']"    364
+"['Beauty, Fitness and Sports']"        337
+"['Accounting/Finance']"        325
+"['Consulting']"        319
+"['Accounting']"        310
+"['Work at Home']"      307
+"['Accounting & Finance']"      302
+"['Medical']"   288
+"['Other']"     266
+"['Law Enforcement & Security']"        235
+"['Training, Instructors and Translators']"     230
+"['Information Technology']"    227
+"['Restaurant']"        196
+"['Personal Care & Services']"  192
+"['Bauingenieurwesen']"   191
+"['Nursing']"   183
+"['Hotel & Hospitality']"       177
+"['Healthcare Technology']"     165
+"['Animal Care']"       162
+"['Production']"        161
+"['Automotive']"        147
+"['Sales']"     138
+"['Protective Services']"       134
+"['Administrative', 'Administration']"  116
+"['Arts', 'Acting']"      114
+"['Healthcare', 'RN']"    102
+"['Healthcare Support']"        101
+"['Life Science']"      88
+"['Healthcare Service']"        83
+"['Arts', 'Fashion Industry']"    81
+"['Operations']"        80
+"['Accounting', 'Accountant']"  79
+"['Physical Science']"  77
+"['Travel', 'Tourism']"  75
+"['Media']"     75
+"['Healthcare', 'Medical Centre']"      75
+"['Volunteering', 'Charity']"   73
+"['Facilities', 'Air Conditioning']"    71
+"['Social Service']"    70
+"['Farming']"   66
+"['Agriculture', 'Environmental Advisor']"      64
+"['Food Service']"      63
+"['Research']"    62
+"['Administrative', 'Admin']"   62
+"['Maintenance']"       60
+"['Business Development']"      60
+"['Security', 'Collection Officer']"    59
+"['Pharmaceutical', 'Pharmacist']"      57
+"['Marketing', 'Advertising']"  57
+"['Administration & Office Support']"   57
+"['Entrepreneurship']"  55
+"['Media and Communications']"  54
+"['Healthcare', 'Sonographer']"   53
+"['Healthcare', 'Mental Health']"       53
+"['Logistics', 'Pick Pack']"    52
+"['Construction', 'Form Work']"   51
+"['Retail', 'Cashier']"   50
+"['Publishing', 'Document Controller']"   50
+"['Manufacturing', 'Boilermaker Welder']"       50
+"['Agriculture', 'Farm']"       50
+"['Administrative', 'Medical Administration']"    50
+"['Accounting', 'Account Payable']"     50
+"['Scientific', 'Social Science']"      49
+"['Maintenance', 'Car Wash']"   48
+"['Hospitality']"       46
+"['Computer']"    46
+"['Business', 'Executive Assistant']"   46
+"['Scientific', 'Medical Science']"     45
+"['Healthcare', 'General Practice']"    45
+"['Facilities', 'Building']"    44
+"['Extraction']"        44
+"['Construction', 'General Hand']"      43
+"['Social Science']"    42
+"['Purchasing']"        42
+"['Publishing', 'Print']"       42
+"['Retail', 'Assistant Store Manager']"   41
+"['Restaurant', 'Kitchen']"     41
+"['Pharmaceutical']"    41
+"['Healthcare', 'Theatre Nurse']"       41
+"['Restaurant', 'Bakery']"      40
+"['Government & Military']"     40
+"['Arts', 'Fashion Design']"    40
+"['Media & Entertainment']"     39
+"['Management', 'Program Manager']"     39
+"['Healthcare', 'Medical Officer']"     39
+"['Engineering', 'Project Engineer']"   39
+"['Legal', 'Contract Administrator']"   38
+"['Agriculture & Environment']"   38
+"['Management', 'Environmental Manager']"       37
+"['Maintenance', 'Maintenance Manager']"        37
+"['Administrative', 'Legal Secretary']"   37
+"['Training', 'Training Provided']"     36
+"['Sport', 'Trainer']"    36
+"['Sales', 'Area Manager']"     36
+"['Manufacturing', 'Refrigeration']"    36
+"['Management', 'Team Leader']"   36
+"['Maintenance', 'Maintenance Fitter']"   36
+"['Law Enforcement', 'Debt Collection']"        36
+"['Business Operations']"       36
+"['Welding']"   35
+"['Travel']"    35
+"['Training', 'Training Manager']"      35
+"['Banking', 'Asset Management']"       35
+"['Transportation', 'Airline']"   34
+"['Sport', 'Youth']"    34
+"['Social Care', 'Community Service']"    34
+"['Healthcare', 'Health']"      34
+"['Quality Assurance']"   33
+"['Management', 'Team Manager']"        33
+"['Management', 'Project Administrator']"       33
+"['IT', 'Desktop Support']"     33
+"['Engineering', 'Chemical Engineering']"       33
+"['Arts', 'Fashion Retail']"      33
+"['Healthcare', 'Paediatric']"    32
+"['Logistics', 'Bridge Engineer']"      31
+"['Healthcare', 'Case Manager']"        31
+"['Communications']"    31
+"['Architecture', 'Architect']"   31
+"['Social Work']"       30
+"['Manufacturing', 'Quality Manager']"   30
+"['Management', 'Assistant Manager']"    30
+"['Engineering', 'Audio']"       30
+"['Building Maintenance']"       30
+"['Logistics', 'Pick Packer']"   29
+"['Law Enforcement', 'Defence']"        29
+"['Engineering', 'Production Engineer']"        29
+"['Driving']"    29
+"['Construction', 'Asphalt']"    29
+"['Administrative', 'Administration Assistant']"        29
+"['Training', 'Apprenticeship']"        28
+"['Social Care', 'Community Development Officer']"      28
+"['Scientific', 'Marine']"      28
+"['Pharmaceutical', 'Pharmacy']"        28
+"['Food']"      28
+"['Scientific', 'Test Analyst']"        27
+"['Marketing']"  27
+"['Library']"   27
+"['Legal', 'Government']"       27
+"['Healthcare', 'GP']"    27
+"['Education', 'Education Officer']"    27
+"['Consulting', 'Change Management']"   27
+"['Art']"       27
+"['Accounting', 'Management Accountant']"       27
+"['Sport', 'Fitness']"    26
+"['Facilities', 'Maintenance Supervisor']"      26
+"['Community and Social Services']"     26
+"['Business', 'Executive Officer']"     26
+"['Training', 'Full Training Provided']"        25
+"['Scientific', 'Agriculture']"   25
+"['Construction', 'Forklift']"  25
+"['Social Care', 'Community Support']"  24
+"['Social Care', 'After School Care']"  24
+"['Publishing']"        24
+"['Human Resources', 'HR']"     24
+"['Food Service', 'Barista']"   24
+"['Construction', 'Sub Contractor']"    24
+"['Arts', '3d']"        24
+"['Hospitality', 'Wait Staff']"   23
+"['Accounting', 'Internal Auditor']"    23
+"['Support']"   22
+"['Manufacturing', 'Steel Fabrication']"        22
+"['Engineering', 'Civil']"      22
+"['Construction', 'Assessor']"    22
+"['Training', 'Apprentice']"    21
+"['Logistics', 'Telecommunications']"     21
+"['Administrative', 'Receptionist']"      21
+"['Training', 'Year Apprentice']"         20
+"['Retail', 'Retail Store Manager']"      20
+"['Military and Protective Services']"    20
+"['Mechanical', 'Automotive']"    20
+"['Manufacturing', 'Factory']"    20
+"['Volunteering', 'Volunteer']"   19
+"['Transportation', 'Airport']"   19
+"['Training', 'Technical Officer']"     19
+"['Sales', 'Technical Sales']"    19
+"['IT']"        19
+"['Volunteer']"   18
+"['Transportation', 'Aviation']"        18
+"['Restaurant', 'Breakfast Chef']"      18
+"['Product Management']"        18
+"['Finance', 'Corporate Finance']"      18
+"['Customer Service', 'Account Manager']"       18
+"['Business', 'Sharepoint']"    18
+"['Arts', 'Music']"     18
+"['Accounting', 'Junior Accountant']"   18
+"['Transportation', 'Bus Driver']"      17
+"['Retail', 'Retail Casual']"     17
+"['Management', 'Branch Manager']"      17
+"['Food Service', 'Pizza']"     17
+"['Customer Service', 'Relationship Manager']"  17
+"['Bank Teller']"       17
+"['Sport', 'Sport Management']"   16
+"['Restaurant', 'Baker']"       16
+"['Private Security']"    16
+"['Healthcare', 'Graduate Nurse']"      16
+"['Healthcare', 'Aged Care']"   16
+"['General labor']"     16
+"['Food Service', 'Pizza Delivery Driver']"     16
+"['Construction', 'General Labourer']"    16
+"['Caregiver']"   16
+"['Logistics', 'Picking']"      15
+"['Hospitality', 'Event Coordinator']"    15
+"['Management', 'Project Coordinator']"   14
+"['Management', 'Environmental Sustainability']"        14
+"['Maintenance', 'Maintenance Planner']"        14
+"['Healthcare', 'Aboriginal Health']"   14
+"['Counselor']"   14
+"['Cleaning']"    14
+"['Arts/Entertainment/Publishing']"     14
+"['Administrative', 'Reception']"       14
+"['Sports']"    13
+"['Retail Associate']"  13
+"['Mechanical', 'Mechanical Fitter']"   13
+"['Manufacturing']"     13
+"['Machinist']"   13
+"['Janitorial']"        13
+"['Investigator']"      13
+"['Healthcare', 'General Practitioner']"        13
+"['Event Coordinator']"   13
+"['Courier']"   13
+"['Construction', 'Painter']"   13
+"['Armed Security']"    13
+"['Sport', 'Sports']"   12
+"['Pipefitter']"        12
+"['Marketing', 'Public Relations']"     12
+"['Manufacturing', 'Planner']"    12
+"['Hospital']"    12
+"['Higher Ed']"   12
+"['Environmental Science']"     12
+"['Entertainment']"     12
+"['Delivery']"  12
+"['Construction', 'Sheet Metal']"       12
+"['Chef']"      12
+"['Athletic Trainer']"    12
+"['Agriculture', 'Farm Work']"  12
+"['Social Care', 'Community Services']"   11
+"['Retail', 'Retail Sales Assistant']"    11
+"['Plumbing']"    11
+"['Logistics']"   11
+"['Government']"        11
+"['Executive']"   11
+"['Engineering', 'Environmental Engineer']"     11
+"['Catering']"  11
+"['Business', 'Economics']"     11
+"['Teacher']"   10
+"['Student']"   10
+"['Restaurant', 'Meat']"        10
+"['Office']"    10
+"['Math']"      10
+"['Manufacturing', 'Plant Operator']"   10
+"['Engineering', 'Sales Engineer']"     10
+"['Education', 'Special Needs']"        10
+"['Dental Assistant']"  10
+"['Construction', 'Electrical Drafter']"        10
+"['Computer Technician']"       10
+"['Business', 'Board Member']"  10
+"['Asset Management']"  10
+"['Risk management']"   9
+"['Physician']"   9
+"['Marketing', 'Brand Marketing']"      9
+"['Manufacturing', 'Cabinet Maker']"    9
+"['Law Enforcement', 'Forensic']"       9
+"['Healthcare', 'Community Nurse']"     9
+"['Dispatcher']"        9
+"['Dishwasher']"        9
+"['Truck driver']"      8
+"['Real Estate', 'Real Estate Sales']"  8
+"['Project Management']"        8
+"['Program and Project Management']"    8
+"['Mining', 'Coal Mining']"     8
+"['Logistics', 'Picking Packing']"      8
+"['Investment Banking/M&A']"    8
+"['Hospitality', 'Waitress']"   8
+"['Healthcare', 'Mental Health Nurse']"   8
+"['Facilities', 'Office Junior']"       8
+"['Construction', 'Rigger']"    8
+"['Business Management']"       8
+"['Bioinformatics']"    8
+"['Bartender']"   8
+"['Bank']"      8
+"['Administrative Assistant']"  8
+"['Teller']"    7
+"['Sales', 'Casual Sales']"     7
+"['Publishing', 'Catalogue Delivery']"  7
+"['Physical education']"        7
+"['Part Time']"   7
+"['Nursing home']"      7
+"['Logistics', 'Supply Chain']"   7
+"['Logistics', 'Procurement']"    7
+"['Logistics', 'Buyer']"        7
+"['Interior design']"     7
+"['Healthcare', 'Pca']"   7
+"['Healthcare', 'Clinical Nurse']"      7
+"['Education', 'After School']"   7
+"['Construction', 'Formwork']"    7
+"['Cio']"       7
+"['Carpentry']"   7
+"['Arts and Design']"   7
+"['Accounting', 'Account Payable Officer']"     7
+"['Warehouse']"   6
+"['Transportation', 'Casual Driver']"   6
+"['Technician']"        6
+"['Security']"    6
+"['Public Relations']"    6
+"['Pharmacy technician']"       6
+"['Operations', 'ONET']"        6
+"['Medical Assistant']"   6
+"['Mechanical', 'Auto Electrician']"    6
+"['Logistics', 'Warehouse']"    6
+"['Lawyer']"    6
+"['Insurance']"   6
+"['Graphic design']"    6
+"['Flight attendant']"   6
+"['Executive Assistant']"       6
+"['Construction', 'Road Construction']"  6
+"['Construction', 'Forklift Driver']"   6
+"['Construction', 'Electrical Apprentice']"     6
+"['Civil Engineering']"   6
+"['Business']"  6
+"['Aviation']"  6
+"['Asset Management', 'ONET']"  6
+"['Waitress']"   5
+"['Training']"   5
+"['Sales Representative']"      5
+"['Receptionist']"      5
+"['Pilot']"      5
+"['Personal Trainer']"   5
+"['Mechanic']"   5
+"['Food Service', 'Casual Cafe']"       5
+"['Exercise Physiology']"       5
+"['Entry Level Marketing']"     5
+"['Chemical Engineering']"      5
+"['Business', 'SAP Basis']"     5
+"['Arts', 'Model']"     5
+"['Telecommunications']"        4
+"['Research Assistant']"        4
+"['Proofreading']"      4
+"['Photography']"       4
+"['Pharmacist']"        4
+"['Personal Assistant']"        4
+"['Paralegal']"  4
+"['Office assistant']"   4
+"['Military']"   4
+"['Mechanical', 'Mechanical Drafter']"  4
+"['Investment Banking/M&A', 'ONET']"    4
+"['Interpreter']"       4
+"['Housekeeping']"      4
+"['Front Desk']"        4
+"['Freelance']"  4
+"['Fintech']"   4
+"['Energy']"    4
+"['Consulting', 'Travel Consultant']"    4
+"['Consulting', 'Strategy Consultant']"  4
+"['Construction', 'Electrical']"        4
+"['Child Care']"         4
+"['Audio Engineering']"  4
+"['Web developer']"     3
+"['Training', 'Apprenticeships']"       3
+"['Technical writing']"  3
+"['Sports Marketing']"   3
+"['Software Engineer']"  3
+"['Secretary']"  3
+"['Scientific', 'Physics']"     3
+"['Retail management']"  3
+"['Restaurant', 'Apprentice Chef']"     3
+"['Physician assistant']"       3
+"['Mechanical', 'Mechanical Design Engineer']"   3
+"['Industrial Design']"  3
+"['Hospitality', 'Bar']"        3
+"['Healthcare', 'Registered Nurse']"    3
+"['Healthcare Management']"     3
+"['Dental Hygienist']"   3
+"['Data Entry']"        3
+"['Creative']"   3
+"['Business Analyst']"   3
+"['Advertising/Public Relations']"      3
+"['Administrative', 'School Assistant']"        3
+"['Accounting', 'Payroll']"     3
+"['Veterinarian']"      2
+"['Translator']"        2
+"['Telemarketing']"     2
+"['Risk Management']"    2
+"['Risk Management', 'ONET']"   2
+"['Pharmaceutical Sales']"      2
+"['Online']"     2
+"['Nonprofit']"  2
+"['Medical transcription']"     2
+"['Mechanical Engineering']"    2
+"['Investment Consulting']"     2
+"['Industrial Engineering']"    2
+"['HR & Recruitment']"   2
+"['Firefighter']"        2
+"['Fintech', 'ONET']"    2
+"['Engineering', 'Information Technology']"     2
+"['Criminal Justice']"   2
+"['Construction', 'Forklift Operator']"   2
+"['Computer', 'Net Developer']"   2
+"['Computer', 'Computer Science']"      2
+"['Commodities']"       2
+"['Capital Markets', 'ONET']"   2
+"['Air Traffic Controller']"    2
+"['Accounting & Finance', 'ONET']"      2
+"['Training', 'Apprentice Year']"       1
+"['Trading']"   1
+"['Technology', 'ONET']"        1
+"['Research', 'ONET']"       1
+"['Quantitative Analytics', 'ONET']"    1
+"['Police Officer']"       1
+"['Planning']"       1
+"['Medical Receptionist']"      1
+"['Logistik']"  1
+"['Information Services', 'ONET']"      1
+"['Hedge Funds']"       1
+"['Factory']"       1
+"['Editing']"       1
+"['Derivatives']"       1
+"['Debt/Fixed Income']"       1
+"['Debt/Fixed Income', 'ONET']"       1
+"['Construction', 'Tiling']"    1
+"['Compliance/Legal']"       1
+"['Compliance/Legal', 'ONET']"       1
+"['Capital Markets']"   1
+"['Bookkeeping']"       1
+"['Biotechnology']"     1
+"['Arts/Entertainment/Publishing', 'Accounting/Finance']"       1
+"['Agriculture', 'Fishing']"    1
+"['Administrative', 'Junior Receptionist']"     1
+"['Accountancy', 'Financial Services']"       1
