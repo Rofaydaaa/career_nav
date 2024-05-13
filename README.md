@@ -1,4 +1,5 @@
 ## Careers Navigator
+Career Navigator provides comprehensive assistance to both companies and job seekers. The application comprises four key models aimed at enhancing the job market experience: salary prediction, years of experience prediction, job classification and job recommendation.
 
 ### DataSet Processed
 - Found it in this [drive](https://drive.google.com/drive/folders/10T5x6bjPKDcJ59K8WK0QLLl12aGsqWun?usp=sharing)
