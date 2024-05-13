@@ -1,6 +1,6 @@
+## Careers Navigator
 
-
-## DataSet Processed
+### DataSet Processed
 - Found it in this [drive](https://drive.google.com/drive/folders/10T5x6bjPKDcJ59K8WK0QLLl12aGsqWun?usp=sharing)
 - Fields after preprocessing:
 ```
@@ -27,6 +27,6 @@
 20. "salary"
 21. "years_or_months_experience"
 ```
-## Map_Reduce
+### Map_Reduce
 - If you want to run map-reduce on a new data rather than the available one, you'll need to change it to txt file first with function in csv_to_txt.py file then use this txt file to run map reduce on it
 - To run it, write this command: ```python <map_reduce_filename.py> <input_filename.txt>```
